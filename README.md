@@ -1,5 +1,6 @@
 # WordListGen
 Super Simple Python Word List Generator for Password Cracking (Hashcat)!
+It is very useful for a programer
 
 I know what your are thinking. Why create another word list generator?  Well, I needed something very simple I could modify on the fly to get the exact character generators for the task at hand. This script is fully functional in its own right, but intended to be modified during CTF's or pen testing engagements easily *on the fly*.
 
